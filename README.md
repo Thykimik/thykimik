@@ -2,7 +2,7 @@
 🔭 
 [link](https://github.com/ostrun-labs/ostrun/ "Ostrun") 
 [link](https://app.effectivegifts.cloud/ "Effective Gifts") 
-[link](https://thykimik.github.io/rohfa-releases/ "Go to rohfa")
+Ici [link](https://thykimik.github.io/rohfa-releases/ "Go to rohfa")
 <!--
 **Thykimik/thykimik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
